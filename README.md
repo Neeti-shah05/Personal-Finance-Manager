@@ -1,2 +1,2 @@
 # Personal-Finance-Manager
-Using Java 
+Using Java, make a personal finance manager. 
